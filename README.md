@@ -8,7 +8,7 @@ This is a project I completed for fun to learn more about machine learning and s
 - How to save and load a model for later use.
 
 ## Instructions
-If you want to test run the model, simply run the download the model weights and run the test.py file.
+To run the model, simply download the model weights and run the test.py file.
 
 
 
